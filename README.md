@@ -12,10 +12,10 @@
 ### Bước 2: Thực thi chương trình
 1. Mở solution trong Visual Studio
 ### Bước 3: Chạy chương trình bằng file đã build (EXE/MSI)
-1. Tải file LibraryManager.exe hoặc LibraryManager.msi từ thư mục Release hoặc đường dẫn được cung cấp.
+1. Tải file Setup.exe hoặc Setup.msi từ thư mục Setup/Debug
 2. Nếu là .exe, chỉ cần nhấp đúp để chạy chương trình.
 3. Nếu là .msi, nhấp đúp và làm theo hướng dẫn trên màn hình để cài đặt phần mềm vào máy.
-4. Sau khi cài đặt xong, mở chương trình từ Desktop hoặc Start Menu.
+4. Sau khi cài đặt xong, mở chương trình từ Desktop
 ### Ghi chú
 1. Đảm bảo database đã được khởi tạo trước khi chạy file EXE/MSI.
 2. Nếu gặp lỗi thiếu .NET Framework, cài đặt phiên bản 4.7.2 hoặc mới hơn.
