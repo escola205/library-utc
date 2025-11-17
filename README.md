@@ -8,7 +8,7 @@
 3. Entity Framework 6.5.1
 4. SQL Server
 ### Bước 1: Khởi tạo database
-1. Thực thi file QLTV.sql để khởi tạo database
+1. Thực thi file QuanLyThuVien.sql để khởi tạo database
 ### Bước 2: Thực thi chương trình
 1. Mở solution trong Visual Studio
 
