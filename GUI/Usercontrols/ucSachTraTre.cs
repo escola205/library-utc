@@ -1,0 +1,49 @@
+﻿using BUS;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace GUI.Usercontrols
+{
+    public partial class ucSachTraTre : UserControl
+    {
+        public ucSachTraTre()
+        {
+            InitializeComponent();
+        }
+        private void btnTaoBaoCao_Click(object sender, EventArgs e)
+        {
+            dataGridView.Rows.Clear();
+            var ngayBC = dtTaoNgay.Value;
+            var bc = BUSBCSachTraTre.Instance.GetBaoCao(ngayBC);
+            if (bc == null)
+            {
+                string err = BUSBCSachTraTre.Instance.AddBaoCao(ngayBC);
+                if (err != "")
+                {
+                    MessageBox.Show(err, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                bc = BUSBCSachTraTre.Instance.GetBaoCao(ngayBC);
+            }
+            if (bc == null)
+            {
+                MessageBox.Show("Có lỗi xảy ra! Vui lòng thử lại sau", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+            int i = 1;
+            dataGridView.Rows.Clear();
+            foreach (var b in bc)
+            {
+                dataGridView.Rows.Add(i, b.CUONSACH.MaCuonSach, b.CUONSACH.SACH.TUASACH.TenTuaSach, b.NgayMuon.ToShortDateString(), b.SoNgayTre);
+                i++;
+            }
+        }
+    }
+}

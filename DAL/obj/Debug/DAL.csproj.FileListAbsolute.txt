@@ -1,0 +1,15 @@
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\bin\Debug\DAL.dll
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\bin\Debug\DAL.pdb
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\bin\Debug\DTO.dll
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\bin\Debug\EntityFramework.dll
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\bin\Debug\DTO.pdb
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\bin\Debug\DTO.dll.config
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\bin\Debug\EntityFramework.xml
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\obj\Debug\DAL.dll
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\obj\Debug\DAL.pdb
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\bin\Debug\DAL.dll.config
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\DAL\bin\Debug\EntityFramework.SqlServer.xml

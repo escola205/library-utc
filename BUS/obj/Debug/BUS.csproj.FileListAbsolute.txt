@@ -1,0 +1,16 @@
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\bin\Debug\BUS.dll
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\bin\Debug\BUS.pdb
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\bin\Debug\DAL.dll
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\bin\Debug\DTO.dll
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\bin\Debug\EntityFramework.dll
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\bin\Debug\DAL.pdb
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\bin\Debug\DTO.pdb
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\bin\Debug\DTO.dll.config
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\bin\Debug\EntityFramework.xml
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\obj\Debug\BUS.dll
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\obj\Debug\BUS.pdb
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\bin\Debug\DAL.dll.config
+D:\Workspaceclass\Laptrinhtrucquan\LibraryManUTC\BUS\bin\Debug\BUS.dll.config
